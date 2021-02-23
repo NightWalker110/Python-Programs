@@ -1,3 +1,3 @@
 # Python-Programs
 
-THESE ARE THE 
+THESE ARE THE BASIC 
